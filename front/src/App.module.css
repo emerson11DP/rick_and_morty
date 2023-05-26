@@ -1,0 +1,12 @@
+.App {
+   text-align: center;
+}
+
+.nav {
+   background-color: #430f58;
+   padding: 1em;
+   display: flex;
+   flex-direction: row;
+   justify-content: end;
+   margin-bottom: 1em;
+}
